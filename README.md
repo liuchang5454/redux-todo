@@ -8,3 +8,5 @@ Tech Stack:
 - uses Redux to manged State
 - uses JQuery to manipulate DOM
 - uses Redux DevTools (a chrome extension) for debugging state changes. The tool is also declared in Redux.createStore() method.
+
+first change made by u2
