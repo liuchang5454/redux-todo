@@ -9,4 +9,10 @@ Tech Stack:
 - uses JQuery to manipulate DOM
 - uses Redux DevTools (a chrome extension) for debugging state changes. The tool is also declared in Redux.createStore() method.
 
+<<<<<<< Updated upstream
 first change made by u2
+=======
+
+
+add a temporary change by u1
+>>>>>>> Stashed changes
